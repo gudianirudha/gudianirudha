@@ -16,6 +16,8 @@ ________________________________________________________________________________
 </div>
  
 
+  
+  
   <img src="https://images.youracclaim.com/size/680x680/images/b5243e36-b05f-426b-994a-87a535f1c217/Build_your_own_chatbot_-_CC_v3.png" class="img-rounded" alt="" width="304"        height="236"> 
   <img src="https://images.youracclaim.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"  class="img-rounded alt="" width="304" height="236"> 
   <img src="https://images.youracclaim.com/size/680x680/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" class="img-rounded alt="" width="304" height="236"> 
